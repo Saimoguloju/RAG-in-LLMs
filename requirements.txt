@@ -1,0 +1,6 @@
+langchain_community
+ctransformers
+transformers
+faiss-cpu
+sentence-transformers
+langchain-huggingface
